@@ -1,6 +1,7 @@
 [
 	{
 		"id": "0001",
-		"link": "first-image.webp"
+		"link": "first-image.webp",
+		"name":"production"
 	}
 ]
